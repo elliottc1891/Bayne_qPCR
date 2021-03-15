@@ -392,3 +392,6 @@ ggplot(qRT_calc_WT_TE , aes(x = Primer_gene, y = mean_over_control)) +
     axis.ticks.length = unit(0.25, "cm"),
     legend.title = element_text(size = 16, face = "bold", hjust = 0.5),
     legend.text = element_text(size = 16))
+
+####### adding a comment for github
+
